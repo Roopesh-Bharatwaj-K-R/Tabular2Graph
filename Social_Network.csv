@@ -1,0 +1,5 @@
+﻿Source,Target,relationship
+Alice,Bob,Friend
+Bob,Charlie,Friend
+Alice,Charlie,Colleague
+Dave,Eve,Friend
